@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/trade-admin-ui-github.iml" filepath="$PROJECT_DIR$/.idea/trade-admin-ui-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sanjay-app.iml" filepath="$PROJECT_DIR$/.idea/sanjay-app.iml" />
     </modules>
   </component>
 </project>
