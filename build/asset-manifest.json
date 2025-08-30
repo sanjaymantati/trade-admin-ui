@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanjaymantati/trade-admin-ui/static/css/main.c0d7d2f8.css",
+    "main.js": "/sanjaymantati/trade-admin-ui/static/js/main.8f06eccd.js",
+    "static/js/453.89053a3b.chunk.js": "/sanjaymantati/trade-admin-ui/static/js/453.89053a3b.chunk.js",
+    "index.html": "/sanjaymantati/trade-admin-ui/index.html",
+    "main.c0d7d2f8.css.map": "/sanjaymantati/trade-admin-ui/static/css/main.c0d7d2f8.css.map",
+    "main.8f06eccd.js.map": "/sanjaymantati/trade-admin-ui/static/js/main.8f06eccd.js.map",
+    "453.89053a3b.chunk.js.map": "/sanjaymantati/trade-admin-ui/static/js/453.89053a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d7d2f8.css",
+    "static/js/main.8f06eccd.js"
+  ]
+}
